@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Samuel Girma<br><br>I’m currently pursuing a Bachelor’s degree in Software Engineering at Addis Ababa Science and Technology University.<br><br>I build modern full-stack applications using current technologies for both frontend and backend, and I enjoy solving problems and creating practical software solutions.<br><br> https://portfolio-brown-mu-93.vercel.app/
+Hi, I'm Samuel Girma<br><br>I have a Bachelor’s degree in Software Engineering from Addis Ababa Science and Technology University.<br><br>I build modern full-stack applications using current technologies for both frontend and backend, and I enjoy solving problems and creating practical software solutions.<br><br> https://portfolio-brown-mu-93.vercel.app/
 
 
 ## 🌐 Socials:
